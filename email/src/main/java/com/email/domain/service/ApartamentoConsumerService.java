@@ -1,4 +1,4 @@
-package com.email.domain;
+package com.email.domain.service;
 
 
 import com.email.domain.model.LancamentoDTO;
